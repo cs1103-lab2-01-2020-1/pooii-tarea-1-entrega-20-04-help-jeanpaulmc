@@ -17,6 +17,13 @@ int main() {
     stringstack.pop();
 
     //agregar más ejemplos de todas las funciones de Stack
-    cout << "Mostrar elementos:"<< endl;
+    intstack.push(2);
+    stringstack.push("Cientifica");
+    stringstack.push("UNI");
+    cout<<stringstack.top()<<endl;
+    cout<<"Usando la funcion pop"<<endl;
+    stringstack.pop(); //borramos UNI
+    cout<<stringstack.top()<<endl;
+    //print_elements(intstack);
     return 0;
 }

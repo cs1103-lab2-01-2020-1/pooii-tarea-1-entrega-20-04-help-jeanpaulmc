@@ -6,25 +6,35 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/funcion.cpp
+funcion.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/funcion.h
+
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/funcion.h
+lib.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
+
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
 iostream
 -
 vector
 -
 
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/main.cpp
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/main.cpp
 lib.h
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
 template/stack.h
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
 template/stack.cpp
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.cpp
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.cpp
 
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.cpp
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.cpp
 stack.h
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
+../funcion.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/funcion.h
 
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/template/stack.h
 ../lib.h
-C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
+C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/lib.h
 

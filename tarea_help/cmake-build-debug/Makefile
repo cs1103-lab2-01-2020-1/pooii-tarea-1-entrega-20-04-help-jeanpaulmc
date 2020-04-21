@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help
+CMAKE_SOURCE_DIR = C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,33 @@ tarea_help/fast:
 	$(MAKE) -f CMakeFiles\tarea_help.dir\build.make CMakeFiles/tarea_help.dir/build
 .PHONY : tarea_help/fast
 
+src/funcion.obj: src/funcion.cpp.obj
+
+.PHONY : src/funcion.obj
+
+# target to build an object file
+src/funcion.cpp.obj:
+	$(MAKE) -f CMakeFiles\tarea_help.dir\build.make CMakeFiles/tarea_help.dir/src/funcion.cpp.obj
+.PHONY : src/funcion.cpp.obj
+
+src/funcion.i: src/funcion.cpp.i
+
+.PHONY : src/funcion.i
+
+# target to preprocess a source file
+src/funcion.cpp.i:
+	$(MAKE) -f CMakeFiles\tarea_help.dir\build.make CMakeFiles/tarea_help.dir/src/funcion.cpp.i
+.PHONY : src/funcion.cpp.i
+
+src/funcion.s: src/funcion.cpp.s
+
+.PHONY : src/funcion.s
+
+# target to generate assembly for a file
+src/funcion.cpp.s:
+	$(MAKE) -f CMakeFiles\tarea_help.dir\build.make CMakeFiles/tarea_help.dir/src/funcion.cpp.s
+.PHONY : src/funcion.cpp.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... tarea_help
 	@echo ... rebuild_cache
+	@echo ... src/funcion.obj
+	@echo ... src/funcion.i
+	@echo ... src/funcion.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

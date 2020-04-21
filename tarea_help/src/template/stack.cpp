@@ -3,6 +3,7 @@
 //
 
 #include "stack.h"
+#include "../funcion.h"
 
 template <typename T>
 void Stack<T>::push (T const& elem) {
@@ -20,7 +21,7 @@ bool empty(){
     vector<T> elements;
     return elements.empty();
 }
-
+/*
 template <class T>
 void print_elements(ostream& os){
     Stack<T> elements;
@@ -29,6 +30,21 @@ void print_elements(ostream& os){
         os<<item<<endl;
     }
 }
+template <class T>
+void print_elements(vector<T> &elements){
+    if(elements.empty())
+    {
+        cout << endl;
+        return;
+    }
+    T x= elements.top();
+    elements.pop();
+    print(elements);
+    elements.push(x);
+    cout << x << " ";
+}
+*/
+
 template <class T>
 T Stack<T>::top () const {
     return elements.back();

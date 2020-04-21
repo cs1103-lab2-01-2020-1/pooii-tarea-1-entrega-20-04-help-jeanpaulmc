@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/tarea_help.dir/src/funcion.cpp.obj"
   "CMakeFiles/tarea_help.dir/src/main.cpp.obj"
   "libtarea_help.dll.a"
   "tarea_help.exe"

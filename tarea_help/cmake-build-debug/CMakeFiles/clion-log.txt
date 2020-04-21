@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Familiar\Documents\GitHub\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help
+"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Familiar\Desktop\github\pooii-tarea-1-entrega-20-04-help-jeanpaulmc\tarea_help
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/cmake-build-debug
+-- Build files have been written to: C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/cmake-build-debug

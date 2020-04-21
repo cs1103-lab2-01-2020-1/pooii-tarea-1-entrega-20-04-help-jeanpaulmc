@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/main.cpp" "C:/Users/Familiar/Documents/GitHub/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/cmake-build-debug/CMakeFiles/tarea_help.dir/src/main.cpp.obj"
+  "C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/funcion.cpp" "C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/cmake-build-debug/CMakeFiles/tarea_help.dir/src/funcion.cpp.obj"
+  "C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/src/main.cpp" "C:/Users/Familiar/Desktop/github/pooii-tarea-1-entrega-20-04-help-jeanpaulmc/tarea_help/cmake-build-debug/CMakeFiles/tarea_help.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
